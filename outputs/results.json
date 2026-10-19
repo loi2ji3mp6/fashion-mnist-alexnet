@@ -1,0 +1,19 @@
+{
+    "epochs_completed": 50,
+    "best_epoch": 50,
+    "best_test_accuracy": 90.46,
+    "final_test_accuracy": 90.46,
+    "per_class_accuracy": {
+        "T-shirt/top": 87.7,
+        "Trouser": 98.1,
+        "Pullover": 84.8,
+        "Dress": 90.3,
+        "Coat": 87.0,
+        "Sandal": 97.7,
+        "Shirt": 68.8,
+        "Sneaker": 96.0,
+        "Bag": 98.1,
+        "Ankle boot": 96.1
+    },
+    "device": "cuda"
+}
